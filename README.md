@@ -4,7 +4,7 @@ The dataset contains ~2.7k customer quotation data for a life insurance product.
 
 # Exploratory data analysis
 
-| QuoteRef      | Channel       | Product| Smoker| 
+| QuoteRef      | Channel       | Product|
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 
