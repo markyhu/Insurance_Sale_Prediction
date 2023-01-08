@@ -5,7 +5,18 @@ The dataset contains ~2.7k customer quotation data for a life insurance product.
 | --- |---| --- |---|--- |---|--- |---|--- |---|--- |---|--- |---|--- |---|--- |---|--- |---|
 | QPCW-43 | CTM |Level|  Y |Y|38.0|20|36.22|1116.22|N|477|NaN|-999997.0|-999997.0| 17|7|5.0|-999997.0|NaN|
 
-If the product is sold then `Sale` is Y otherwise it's N. Other variables are:
+If the product is sold then `Sale` is Y otherwise it's N. Other key variables are:
+TotalPremium:
+GrossCommission:
+JF(Score):
+WGB:
+X:
+EF:
+NOB:
+URB:
+LSB:
+BB:
+ND:
 
 
 # Data cleaning
