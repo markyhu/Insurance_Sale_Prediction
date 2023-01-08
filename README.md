@@ -13,7 +13,7 @@ If the product is sold then `Sale` is Y otherwise it's N. Other variables are:
 Initial inspection reveals the number of missing data are the same across some features . It's possible that some customers didn't provide these information when they requested quotation. Special characters and some odd numbers such as '-999997' and '9999' are also treated as missing values.
 Summary of the missing values indicates they exist in nearly half of the features and takes up a large amount of data( 65.3% in 'X (Months same person on ER at current address)', 97.5% in 'ND (Months since last CCJ)'!). It's important to find appropriate ways to deal with these missing values so that the impact they have on the model can be minimized.
 
-![Summary of missing values]('./Desktop/study/projects/insurance/images/screenshot/missing_data.png')
+<img src="https://github.com/markyhu/Insurance_Sale_Prediction/blob/master/images/missing_data.png" width="300" />
 
 
 
